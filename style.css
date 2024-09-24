@@ -329,6 +329,10 @@ i {
     max-width: 64px;
   }
 }
+.copyright {
+  text-align: center;
+}
+
 body {
   font-family: "Sora", sans-serif;
   width: 100%;
